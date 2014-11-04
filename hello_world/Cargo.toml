@@ -1,0 +1,9 @@
+[package]
+
+name = "hello_world"
+version = "0.0.1"
+authors = ["RP-3 rohan@compgun.com"]
+
+[[bin]]
+
+name = "hello_world"
